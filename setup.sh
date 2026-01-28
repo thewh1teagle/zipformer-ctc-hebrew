@@ -9,3 +9,4 @@ uv run python -c "import k2; print('k2:', k2.__dev_version__)"
 source .venv/bin/activate
 
 git clone https://github.com/k2-fsa/icefall.git
+cd icefall/egs/librispeech/ASR
